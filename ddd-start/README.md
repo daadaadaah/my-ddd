@@ -11,3 +11,7 @@
 - 9장. 애그리거트와 더불어 가장 중요한 개념 중 하나인 BOUNDED CONTEXT에 대한 내용을 다룬다. BOUNDED CONTEXT가 무엇이고, 각 컨텍스트의 통합과 관계에 대해 배워본다.
 - 10장. 도메인 이벤트를 이용해 시스템의 결합도를 낮추고 기능을 확장하는 방법을 설명하고, 비동기로 이벤트를 처리하는 몇가지 구현 방법을 살펴본다.
 - 11장. CQRS가 무엇이고 이를 통해 어떤 효과를 얻을 수 있는지를 설명한다.
+
+## Reference
+- https://incheol-jung.gitbook.io/docs/study/ddd-start/1
+- 
